@@ -21,7 +21,7 @@
               "apps/office-addin/src/favicon.ico",
               "apps/office-addin/src/assets"
             ],
-            "styles": ["apps/office-addin/src/styles.scss"],
+            "styles": ["./node_modules/@angular/material/prebuilt-themes/deeppurple-amber.css", "apps/office-addin/src/styles.scss"],
             "scripts": []
           },
           "configurations": {
